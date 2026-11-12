@@ -10,7 +10,7 @@ def multiply(a, b):
 def square(a):
   return a*a
 
-def devide(a, b):
+def divide(a, b):
   if b == 0:
     return None
   return a / b
@@ -20,4 +20,4 @@ if __name__ == "__main__":
   print("5 - 2 =", subtract(5, 2))
   print("2 * 3 =", multiply(2, 3))
   print("2^2 =", square(2))
-  print("3 / 0 =", devide(3, 0))
+  print("3 / 0 =", divide(3, 0))
