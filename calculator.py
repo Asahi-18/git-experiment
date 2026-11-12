@@ -1,7 +1,7 @@
-def add(a,b):
+def add(a, b):
   return a + b
 
-def subtract(a,b):
+def subtract(a, b):
   return a - b
 
 def multiply(a, b):
@@ -10,7 +10,7 @@ def multiply(a, b):
 def square(a):
   return a*a
 
-def devide(a,b):
+def devide(a, b):
   if b == 0:
     return None
   return a / b
@@ -18,3 +18,6 @@ def devide(a,b):
 if __name__ == "__main__":
   print("2 + 3 =", add(2, 3))
   print("5 - 2 =", subtract(5, 2))
+  print("2 * 3 =", multiply(2, 3))
+  print("2^2 =", square(2))
+  print("3 / 0 =", devide(3, 0))
