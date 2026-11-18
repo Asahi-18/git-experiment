@@ -8,4 +8,4 @@ Author: Asahi
 - subtract(a,b)
 - multiply(a,b)
 - square(a)
-- devide(a,b)
+- divide(a,b)
