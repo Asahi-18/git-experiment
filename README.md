@@ -15,3 +15,4 @@ Author: Asahi
 
 Member A: <生方朝陽>
 Member B: <遠藤俐輝>
+Member C: <宇佐美旭生>
