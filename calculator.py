@@ -12,7 +12,10 @@ def square(a):
 
 def divide(a, b):
   if b == 0:
+
     return 0
+
+
   return a / b
 
 def power(a, b):
@@ -28,6 +31,7 @@ def absolute(a):
   if a < 0:
     return -a
   return a
+
 
 if __name__ == "__main__":
   print("2 + 3 =", add(2, 3))
