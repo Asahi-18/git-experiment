@@ -19,3 +19,5 @@ Member C: <宇佐美旭生>
 
 Role B; collaborator
 Role A: repository owner
+
+Note B: second round
