@@ -18,6 +18,9 @@ def divide(a, b):
 def power(a, b):
   return a ** b
 
+def mod(a, b):
+  return a % b
+
 if __name__ == "__main__":
   print("2 + 3 =", add(2, 3))
   print("5 - 2 =", subtract(5, 2))
@@ -25,3 +28,4 @@ if __name__ == "__main__":
   print("2^2 =", square(2))
   print("3 / 0 =", divide(3, 0))
   print("2 ** 3 =", power(2,3))
+  print("10 % 3 =", mod(10,3))
