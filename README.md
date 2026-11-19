@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-# Inofrmation Science Git Experiment
-=======
-# Git experiment - Version A
->>>>>>> conflict-a
+
+# Inofrmation Science Git Experiment - Version A
+
 This repository is used for Git experiment.
 
 Author: Asahi
@@ -14,3 +12,5 @@ Author: Asahi
 - square(a)
 - divide(a,b)
 - power(a,b)
+
+Member A: <生方朝陽>
