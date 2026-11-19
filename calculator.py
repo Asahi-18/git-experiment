@@ -12,7 +12,7 @@ def square(a):
 
 def divide(a, b):
   if b == 0:
-    return None
+    return 0
   return a / b
 
 def power(a, b):
