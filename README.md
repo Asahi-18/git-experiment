@@ -14,3 +14,4 @@ Author: Asahi
 - power(a,b)
 
 Member A: <生方朝陽>
+Member B: <遠藤俐輝>
