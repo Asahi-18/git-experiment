@@ -24,3 +24,4 @@ if __name__ == "__main__":
   print("2 * 3 =", multiply(2, 3))
   print("2^2 =", square(2))
   print("3 / 0 =", divide(3, 0))
+  print("2 ** 3 =", power(2,3))
