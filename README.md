@@ -9,3 +9,4 @@ Author: Asahi
 - multiply(a,b)
 - square(a)
 - divide(a,b)
+- power(a,b)
