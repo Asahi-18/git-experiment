@@ -18,6 +18,11 @@ def divide(a, b):
 def power(a, b):
   return a ** b
 
+def absolute(a):
+  if a < 0:
+    return -a
+  return a
+
 if __name__ == "__main__":
   print("2 + 3 =", add(2, 3))
   print("5 - 2 =", subtract(5, 2))
@@ -25,3 +30,4 @@ if __name__ == "__main__":
   print("2^2 =", square(2))
   print("3 / 0 =", divide(3, 0))
   print("2 ** 3 =", power(2,3))
+  print("absolute(-5) =", absolute(-5))
