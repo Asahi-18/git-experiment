@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Inofrmation Science Git Experiment
+=======
+# Git experiment - Version A
+>>>>>>> conflict-a
 This repository is used for Git experiment.
 
 Author: Asahi
