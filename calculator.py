@@ -51,6 +51,8 @@ def first(values):
     return None
   return values[0]
 
+def is_positive(a):
+  return a > 0
 
 if __name__ == "__main__":
   print("2 + 3 =", add(2, 3))
