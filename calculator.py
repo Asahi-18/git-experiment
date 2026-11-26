@@ -29,6 +29,8 @@ def mod(a, b):
   return a % b
 
 def average(values):
+  if not values:
+    return None
   return sum(values) / len(values)
 
 def cube(a):
