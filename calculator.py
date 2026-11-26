@@ -31,6 +31,11 @@ def mod(a, b):
 def cube(a):
   return a*a*a
 
+def maximum(values):
+  if not values:
+    return None
+  return max(values)
+
 def absolute(a):
   if a < 0:
     return -a
