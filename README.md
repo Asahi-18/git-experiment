@@ -13,6 +13,7 @@ Author: Asahi
 - divide(a,b)
 - power(a,b)
 - is_even(a)
+- double(a)
 
 Member A: <生方朝陽>
 Member B: <遠藤俐輝>
