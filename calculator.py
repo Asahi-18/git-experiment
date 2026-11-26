@@ -54,6 +54,9 @@ def first(values):
     return None
   return values[0]
 
+def is_even(a):
+  return a % 2 == 0
+
 
 
 if __name__ == "__main__":
