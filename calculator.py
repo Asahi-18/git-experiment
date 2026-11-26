@@ -33,6 +33,9 @@ def average(values):
     return None
   return sum(values) / len(values)
 
+def double(a):
+  return a * 2
+
 def cube(a):
   return a*a*a
 
@@ -50,6 +53,7 @@ def first(values):
   if not values:
     return None
   return values[0]
+
 
 
 if __name__ == "__main__":
