@@ -46,6 +46,11 @@ def absolute(a):
     return -a
   return a
 
+def first(values):
+  if not values:
+    return None
+  return values[0]
+
 
 if __name__ == "__main__":
   print("2 + 3 =", add(2, 3))
