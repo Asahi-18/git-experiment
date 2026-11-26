@@ -28,6 +28,9 @@ def power(a, b):
 def mod(a, b):
   return a % b
 
+def average(values):
+  return sum(values) / len(values)
+
 def cube(a):
   return a*a*a
 
