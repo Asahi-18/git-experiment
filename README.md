@@ -12,9 +12,8 @@ Author: Asahi
 - square(a)
 - divide(a,b)
 - power(a,b)
-
 - is_positive(a)
-
+- is_even(a)
 - double(a)
 
 

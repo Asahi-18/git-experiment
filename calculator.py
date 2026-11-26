@@ -57,6 +57,11 @@ def first(values):
 def is_positive(a):
   return a > 0
 
+def is_even(a):
+  return a % 2 == 0
+
+
+
 
 if __name__ == "__main__":
   print("2 + 3 =", add(2, 3))
