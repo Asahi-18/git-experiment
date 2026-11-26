@@ -26,4 +26,4 @@ Note B: second round
 
 # A: feature-mod
 
-Review target: maximum
+Review target: average
